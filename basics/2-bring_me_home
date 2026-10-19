@@ -1,4 +1,2 @@
 #!/bin/bash
-pwd
-cd ~codespace
-pwd
+cd ~codespace   ;    pwd
