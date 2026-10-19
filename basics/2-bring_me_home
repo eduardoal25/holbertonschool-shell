@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ~codespace
+cd <(printf 'cd ~\home\codespace')
