@@ -1,2 +1,2 @@
 #!/bin/bash
-pushd "$HOME" | cut -d' ' -f1
+pushd "$HOME"
