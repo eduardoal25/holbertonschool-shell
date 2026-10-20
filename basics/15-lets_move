@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /workspaces/holbertonschool-shell/[[:upper:]]* /tmp/u
+mv [[:upper:]]* /tmp/u
