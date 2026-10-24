@@ -1,2 +1,2 @@
 #!/bin/bash
-local BEST=School
+my_funtion() { local BEST=School }
